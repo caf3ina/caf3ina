@@ -1,7 +1,7 @@
-### whoami 👋
+### whoami
 
 <!--
-**caf3ina/caf3ina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caf3ina/README.md
 
 Tales Casagrande aka taleco
 
