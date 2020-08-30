@@ -1,7 +1,5 @@
 ### whoami
 
-**caf3ina/README.md
-
 Tales Casagrande aka taleco
 
 🥽 Looking to collaborate on
