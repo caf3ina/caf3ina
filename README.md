@@ -1,6 +1,5 @@
 ### whoami
 
-<!--
 **caf3ina/README.md
 
 Tales Casagrande aka taleco
@@ -33,4 +32,3 @@ Tales Casagrande aka taleco
 ✍️ Currently studying studying for...
 
 * AWS Solutions Architect
---!>
