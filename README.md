@@ -1,6 +1,6 @@
 ### whoami
 
-Tales Casagrande aka taleco
+Tales Casagrande a.k.a taleco
 
 🥽 Looking to collaborate on
 
