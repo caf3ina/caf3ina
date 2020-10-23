@@ -27,6 +27,7 @@ Tales Casagrande a.k.a taleco
 * ApexOne Certified Trainer
 * Trend Micro Advanced Threat Centric Education Intermediate
 
-✍️ Currently studying studying for...
+✍️ Currently studying studying ...
 
-* AWS Solutions Architect
+* AWS Certified Developer Associate
+* K8S
