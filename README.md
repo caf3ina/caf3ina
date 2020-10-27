@@ -4,7 +4,7 @@ Tales Casagrande a.k.a taleco
 
 🥽 Looking to collaborate on
 
-* Incident Response Projects
+* DevSecOps projects
 * Writing technical content and teaching
 
 📚 Education
@@ -27,7 +27,7 @@ Tales Casagrande a.k.a taleco
 * ApexOne Certified Trainer
 * Trend Micro Advanced Threat Centric Education Intermediate
 
-✍️ Currently studying studying ...
+✍️ Currently studying ...
 
 * AWS Certified Developer Associate
 * K8S
