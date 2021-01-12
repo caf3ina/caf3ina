@@ -21,6 +21,7 @@ Tales Casagrande a.k.a taleco
 📃 Certifications
 
 * AWS Certified Cloud Practitioner
+* AWS Certified Developer - Associate
 * Azure AZ-900 Microsoft Azure Fundamentals
 * Trend Micro Tipping Point Expert
 * Trend Micro Deep Security Professional
@@ -29,5 +30,5 @@ Tales Casagrande a.k.a taleco
 
 ✍️ Currently studying ...
 
-* AWS Certified Developer Associate
-* K8S
+* Certified Cloud Security Professional
+* Certified Kubernetes Administrator
