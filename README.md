@@ -5,7 +5,7 @@ Tales Casagrande a.k.a taleco
 🥽 Looking to collaborate on
 
 * DevSecOps projects
-* Writing technical content and teaching
+* Writing technical about security
 
 📚 Education
 
