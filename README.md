@@ -2,7 +2,7 @@
 
 Tales Casagrande a.k.a taleco
 
-🥽 Looking to collaborate on
+🥽 * Looking to collaborate on *
 
 * DevSecOps projects
 * Writing technical about security
