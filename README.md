@@ -28,7 +28,10 @@ Tales Casagrande a.k.a taleco
 * ApexOne Certified Trainer
 * Trend Micro Advanced Threat Centric Education Intermediate
 
-✍️ Currently studying ...
+✍️ Currently studying
 
 * Certified Cloud Security Professional
 * Certified Kubernetes Administrator
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
