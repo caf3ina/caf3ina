@@ -2,7 +2,7 @@
 
 Tales Casagrande a.k.a taleco
 
-🥽 * Looking to collaborate on *
+🥽 Looking to collaborate on
 
 * DevSecOps projects
 * Writing technical about security
@@ -32,7 +32,7 @@ Tales Casagrande a.k.a taleco
 
 * Certified Kubernetes Administrator
 
-🔨 Github stats
+🔨 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=caf3ina&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
