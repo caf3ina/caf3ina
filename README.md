@@ -30,8 +30,9 @@ Tales Casagrande a.k.a taleco
 
 ✍️ Currently studying
 
-* Certified Cloud Security Professional
 * Certified Kubernetes Administrator
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caf3ina)
 
