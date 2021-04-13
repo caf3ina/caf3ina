@@ -31,10 +31,10 @@ Tales Casagrande a.k.a taleco
 ✍️ Currently studying
 
 * Certified Kubernetes Administrator
+* AWS DevOps Engineer
 
 🔨 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=caf3ina&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caf3ina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
