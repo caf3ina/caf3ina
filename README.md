@@ -32,6 +32,7 @@ Tales Casagrande a.k.a taleco
 
 * Certified Kubernetes Administrator
 * AWS DevOps Engineer
+* Python
 
 🔨 Github Stats
 
